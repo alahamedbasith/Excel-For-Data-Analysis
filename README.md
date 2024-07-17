@@ -57,4 +57,9 @@
 - Types of Chart
 - Dashboard Creation
 
+### Project
+- Complete CRM Sales Pipeline Dashboard (From Scratch to Advanced)
+
 All of these modules are covered theoratically and practically.
+
+
