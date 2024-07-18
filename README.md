@@ -18,7 +18,7 @@
 - Excel Absolute Reference
 - Excel Arithmetic Operators
 - Excel Parentheses
-- Excel Functions
+- Excel Functions(Discuss 20+ Functions)
 
 ### Excel Formatting
 
