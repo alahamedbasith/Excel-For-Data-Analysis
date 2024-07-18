@@ -47,7 +47,8 @@
 ### Excel Charts and Pivot Tables
 
 - Excel Charts
-- Table Pivot
+- Pivot Tables
+- Data Validation
 - Vlookup and Hlookup
 - Index and Match Method
 
